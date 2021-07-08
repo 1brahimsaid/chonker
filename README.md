@@ -1,7 +1,8 @@
 # Chonker x86 Game 🐹
 
+
 <p align="center">
-  <img src="/img/chonker.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/86809275/124992671-487ab800-e011-11eb-877c-0cc9dbde7988.jpeg"/>
 </p>
 
 # What is it?
@@ -11,7 +12,7 @@ This game was created using Assembly code and DOS. Hardware/software interrupts 
 # Interrupts
 
 <p align="center">
-  <img src="/img/flowchart.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/86809275/124992713-53354d00-e011-11eb-9179-50c623f4ffb9.jpeg"/>
 </p>
 
 Interrupts offer an alternative way of responding to external events in a microprocessor system. The microprocessor can poll for changes in the environment by constantly looking for those changes, or it can wait until a device signals for a change.
